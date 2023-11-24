@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 10pt;
+    font-weight: normal;
+}
+
+.item{
+    background-color: rgb(143, 143, 143);
+    font-size: 50px;
+    text-align: justify;
+}
+aside {
+    width: 70px;
+    height: 150px;
+    background-color: rgb(211, 206, 206);
+}
+
+.tiarromba{
+    text-align: center;
+    font-style: normal;
+}
+
+.principal{
+   width: 50%;
+   margin-left: 80px;
+   margin-top: -150px; 
+}
+.gvyhj{
+    text-align: center;
+}
+.jimmyneutroafricano {
+    text-align: right;
+    font-style: normal;
+}
+
+.borboleto{
+    text-align: right;
+    width: 44%;
+    margin-left: 760px;
+    margin-top: -85px;
+    height: 30%;
+    padding: 5px;
+    font-weight: normal;
+}
+
+.left{
+    
+}
